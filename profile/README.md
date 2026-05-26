@@ -1,5 +1,10 @@
-# SHIVAM ITCS
+<div align="center">
+  <img src="https://github.com/Shivamitcs/.github/blob/main/banner.png?raw=true" alt="SHIVAM ITCS Banner" width="100%" />
+</div>
 
+<br/>
+
+# SHIVAM ITCS
 
 ## AI Automation • Agentic AI • Enterprise Software • RAG Systems
 
