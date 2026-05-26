@@ -4,181 +4,88 @@
 
 <br/>
 
+<div align="center">
+
 # SHIVAM ITCS
 
-## AI Automation • Agentic AI • Enterprise Software • RAG Systems
+### AI Automation • Agentic AI • Enterprise SaaS • RAG Systems
 
 Building intelligent platforms, scalable automation systems, and enterprise-grade AI infrastructure for modern businesses.
 
 🌐 https://shivamitcs.in
 
+</div>
+
 ---
 
-# 🚀 About Us
+# 🚀 About
 
-SHIVAM ITCS is a technology company focused on building modern AI-powered applications, automation platforms, enterprise software systems, and scalable digital infrastructure.
+SHIVAM ITCS is an AI-driven technology company focused on building scalable software systems, intelligent automation platforms, enterprise SaaS products, and next-generation AI infrastructure.
 
 We specialize in:
 
-* Agentic AI Systems
-* AI Workflow Automation
+* AI Automation Systems
+* Agentic AI Platforms
 * Retrieval-Augmented Generation (RAG)
-* Enterprise SaaS Platforms
+* Enterprise SaaS Solutions
 * Full-Stack Development
 * Cloud & DevOps Infrastructure
-* Healthcare & Fintech Platforms
+* Healthcare & Fintech Systems
 * Multi-Tenant Architectures
 
 ---
 
-# 🧠 Core Technology Stack
+# ⚡ Featured Platforms
 
-## AI & Automation
-
-* OpenAI
-* LangGraph
-* CrewAI
-* LangChain
-* LlamaIndex
-* Ollama
-* Prompt Engineering
-* AI Agents
-* RAG Pipelines
-
-## Frontend
-
-* Angular 19
-* React 18
-* Next.js 14
-* Vite
-* TailwindCSS
-* TypeScript
-* Framer Motion
-* GSAP
-
-## Backend
-
-* ASP.NET Core (.NET 8)
-* Node.js
-* Express.js
-* FastAPI
-* Python
-* GraphQL
-
-## Mobile
-
-* React Native
-* Expo
-
-## Databases
-
-* PostgreSQL
-* MongoDB
-* SQL Server
-* Redis
-* ChromaDB
-* Qdrant
-* pgvector
-
-## Cloud & Infrastructure
-
-* Docker
-* Kubernetes
-* Linux
-* VPS Deployment
-* Azure
-* AWS
-* CI/CD Pipelines
-
----
-
-# ⚡ Featured Platforms & Solutions
-
-## 🤖 AI & Agentic Systems
+## 🤖 AI & Automation
 
 ### HiveGPT Agents
 
-AI-powered multi-agent automation platform for marketing, campaign orchestration, AI workflows, and intelligent business automation.
+AI-powered multi-agent automation platform for intelligent workflows and business operations.
 
-### Vector RAG & Vectorless RAG
+### Vector RAG
 
-Advanced Retrieval-Augmented Generation systems with semantic search, contextual reasoning, and enterprise knowledge retrieval.
+Enterprise Retrieval-Augmented Generation platform with semantic search and contextual AI responses.
 
-### AI IQ Mind Assessment
+### AI IQ Mind
 
-AI-powered adaptive IQ assessment platform with intelligent evaluation and personalized testing.
+Adaptive AI-powered cognitive assessment and intelligent evaluation system.
 
 ### AI Yoga Instructor
 
-AI wellness platform delivering personalized yoga routines and guided health experiences.
-
-### Multi-Tenant AI E-Commerce
-
-Next-generation AI-powered eCommerce platform with intelligent AI sales assistant capabilities.
+AI-powered wellness platform with guided yoga experiences and personalized routines.
 
 ---
 
-## 🏥 Healthcare Platforms
+## 🏥 Healthcare
 
 ### HOS — Hospital Operating System
 
-Enterprise-grade multi-tenant healthcare platform combining HMS, EMR, and PHR systems with AI-assisted workflows.
+Enterprise-grade HMS, EMR, and PHR platform with AI-assisted workflows.
 
 ### Healthcare EMR & Patient Portal
 
-Modern healthcare portal for appointments, reports, medical records, and patient management.
+Modern healthcare experience platform for appointments, reports, and patient management.
 
-### Hospital Management System (MERN)
+### Hospital Management System
 
-Complete healthcare operations platform for clinics and hospitals.
-
----
-
-## 🏫 Education Platforms
-
-### School Management System
-
-Modern .NET 8 + Angular based school ERP platform with attendance, academics, notifications, and administration modules.
-
-### SIS Mobile Application
-
-Role-based mobile application for students, teachers, and administrators.
-
-### PUSHTI School Platform
-
-Responsive multilingual school platform for digital communication and academic services.
+Full-stack healthcare operations platform for clinics and hospitals.
 
 ---
 
-## 🛒 Commerce & Fintech
+## 🛒 Enterprise & SaaS
 
 ### Multi-Store E-Commerce Platform
 
-Scalable multi-tenant commerce platform supporting mobile apps, payment systems, and inventory operations.
+Scalable commerce infrastructure with AI-assisted shopping experiences.
 
 ### Fintech Payments Platform
 
-Secure fintech infrastructure for payments, payouts, transaction analytics, and financial workflows.
+Secure fintech ecosystem for payments, payouts, and transaction management.
 
 ### Inventory & Warehouse Management
 
-Enterprise inventory and warehouse platform with analytics, stock management, and supplier operations.
-
----
-
-## 📊 SaaS & Enterprise Platforms
-
-### SaaS Admin Dashboard
-
-Modern analytics dashboard with role-based management, visualizations, and enterprise administration.
-
-### MERN Enterprise Dashboard
-
-Full-stack administration platform with RBAC, audit logs, analytics, and media management.
-
-### Clearly Inventory
-
-Cloud-based inventory and asset tracking system for enterprise stock management and operations.
+Enterprise inventory platform with analytics, stock tracking, and supplier management.
 
 ---
 
@@ -187,53 +94,45 @@ Cloud-based inventory and asset tracking system for enterprise stock management 
 * https://hos.shivamitcs.in
 * https://rag.shivamitcs.in
 * https://agents.hivegpt.ai
-* https://inventory.shivamitconsultancy.com
 * https://fintech.shivamitcs.in
+* https://inventory.shivamitconsultancy.com
 * https://hopeclinic.cloud
 * https://pushtischool.in
-* https://mern.shivamitcs.in
-* https://saas.shivamitconsultancy.com
 
 ---
 
-# 🏗 Architecture & Engineering
+# 🧠 Core Technologies
 
-We build systems focused on:
+### AI & Automation
 
-* Scalability
-* Performance
-* Security
-* AI-first Workflows
-* Multi-Tenant Infrastructure
-* Real-Time Communication
-* Enterprise Automation
-* Cloud-Native Architecture
+OpenAI • LangChain • LangGraph • CrewAI • LlamaIndex • Ollama
+
+### Frontend
+
+Angular • React • Next.js • TailwindCSS • TypeScript
+
+### Backend
+
+ASP.NET Core • Node.js • Express.js • FastAPI • Python
+
+### Infrastructure
+
+Docker • Kubernetes • AWS • Azure • Linux • CI/CD
+
+### Databases
+
+PostgreSQL • MongoDB • SQL Server • Redis • Qdrant • ChromaDB
 
 ---
 
-# 🔥 Current Focus Areas
+# 🔥 Current Focus
 
 * Agentic AI Infrastructure
 * Enterprise AI Automation
-* AI SaaS Platforms
-* Multi-Agent Systems
 * AI Workflow Orchestration
-* RAG Pipelines
-* AI-Powered Dashboards
-* Intelligent Business Systems
-
----
-
-# 🧠 Industry Focus
-
-* Artificial Intelligence
-* Healthcare Technology
-* Fintech
-* Enterprise SaaS
-* Education Technology
-* Inventory & Logistics
-* Automation Systems
-* Digital Transformation
+* Multi-Agent Systems
+* AI SaaS Platforms
+* Enterprise RAG Pipelines
 
 ---
 
@@ -247,12 +146,8 @@ https://shivamitcs.in
 
 ---
 
-# 🚀 Vision
-
-To build scalable AI-native software platforms that combine automation, intelligence, and enterprise-grade infrastructure for the future of digital businesses.
-
----
-
-### SHIVAM ITCS
+<div align="center">
 
 ### Building Intelligent Digital Infrastructure
+
+</div>
